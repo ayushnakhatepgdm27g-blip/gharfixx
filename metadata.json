@@ -1,0 +1,6 @@
+{
+  "name": "Villa Banner Layouts",
+  "description": "Minimalist architectural banners recreating the layout from the reference image, using pure white typography on a plain black background with DM Sans font.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
